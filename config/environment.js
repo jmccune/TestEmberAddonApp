@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'test-addon-app',
+    modulePrefix: 'tap',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
